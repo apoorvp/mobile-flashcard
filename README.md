@@ -19,6 +19,8 @@ This app uses expo to access the native apis like notification,location etc
 
 This app is tested on android emulator (Pixel_2_API_28) and on the android device using snack
 
+The app uses expo SDK 37.0.0.
+
 ## Available Scripts
 
 ### `npm install`
