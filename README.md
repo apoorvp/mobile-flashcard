@@ -5,7 +5,7 @@ The basic functionality is explained below - :
 
 The app will allow users to create different categories of flashcards called "decks", add flashcards to those decks, then take quizzes on those decks.
 
-The app sends notiLogic for notification has been implemented. Notifications are generated at  8:00 PM  daily  if the user hasn't completed at least one quiz for that day.
+Notification has been implemented. Notifications are generated at  8:00 PM  daily  if the user hasn't completed at least one quiz for that day.
 
 This application is developed using react,react-native and redux. Also I used react-redux library to connect with the redux store.
 
@@ -19,7 +19,7 @@ This app uses expo to access the native apis like notification,location etc
 
 This app is tested on android emulator (Pixel_2_API_28) and on the android device using snack
 
-##Available Scripts
+## Available Scripts
 
 ### `npm install`
 
